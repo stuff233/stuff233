@@ -12,11 +12,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<img align="right" height="380" src="https://raw.githubusercontent.com/stuff233/stuff233/main/3.jpg"  />
 
 ###
 
-<img align="right" height="400" src="https://raw.githubusercontent.com/stuff233/stuff233/main/3.jpg"  />
+<h2 align="left">About me</h2>
 
 ###
 
@@ -38,6 +38,14 @@
 
 ###
 
+<h2 align="left">How to Contact me</h2>
+
+###
+
+<h5 align="left">E-Mail：stuff233@outllok.com<br>Telegram：@stuff233zhou<br>CoolApk：stuff233<br>Location：Zhuzhou City, Hunan Province, CHINA(People's Rep. of)</h5>
+
+###
+
 <h2 align="left">Operating Systems</h2>
 
 ###
@@ -50,6 +58,12 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:stuff233?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
