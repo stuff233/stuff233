@@ -42,7 +42,7 @@
 
 ###
 
-<h5 align="left">E-Mail：stuff233@outllok.com<br>Telegram：@stuff233zhou<br>CoolApk：stuff233<br>Location：Zhuzhou City, Hunan Province, CHINA(People's Rep. of)</h5>
+<h5 align="left">E-Mail：stuff233@outlook.com<br>Telegram：@stuff233zhou<br>CoolApk：stuff233<br>Location：Zhuzhou City, Hunan Province, CHINA(People's Rep. of)</h5>
 
 ###
 
